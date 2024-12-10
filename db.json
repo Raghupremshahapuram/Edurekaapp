@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "884f",
+      "email": "raghupremshahapuram@gmail.com",
+      "username": "Shahapuram Raghuprem",
+      "phone": "8096511013",
+      "password": "123456",
+      "conformpassword": "123456",
+      "disclamer": true
+    },
+    {
+      "id": "64dc",
+      "email": "raghu@raghu.com",
+      "username": "Shahapuram Raghuprem",
+      "phone": "9966952727",
+      "password": "123456",
+      "conformpassword": "12345",
+      "disclamer": true
+    },
+    {
+      "id": "d9cf",
+      "email": "prem@ma.com",
+      "username": "Shahapuram Raghuprem",
+      "phone": "9603143486",
+      "password": "123456",
+      "disclamer": true
+    },
+    {
+      "id": "8e86",
+      "email": "raghu@email.com",
+      "username": "raghu",
+      "phone": "9966962424",
+      "password": "123456",
+      "disclamer": true
+    }
+  ],
+  "Product": [
+    {
+      "name": "nokia2233",
+      "description": "Silky Black, 112 GB RAM, 512GB",
+      "price": "42000",
+      "image": "https://m.media-amazon.com/images/I/71oIjjNm+nL._SL1500_.jpg",
+      "id": "0ca8"
+    },
+    {
+      "name": "OnePlus 12",
+      "description": "Silky Black, 16 GB RAM, 512GB",
+      "price": "42000",
+      "image": "https://m.media-amazon.com/images/I/71o8VehMHXL._SL1500_.jpg",
+      "id": "7a08"
+    },
+    {
+      "name": "Samsung Galaxy Z Fold5 5G",
+      "description": "Phantom Black, 12GB RAM, 256GB Storage",
+      "price": "52000",
+      "image": "https://m.media-amazon.com/images/I/71RLYJvBidL._SL1500_.jpg",
+      "id": "eaab"
+    },
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 699,
+      "image": "assets/images/smartphone.jpg",
+      "description": "High-quality smartphone with advanced features."
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "price": 199,
+      "image": "assets/images/headphones.jpg",
+      "description": "Noise-cancelling headphones for immersive sound."
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "price": 999,
+      "image": "assets/images/laptop.jpg",
+      "description": "Powerful laptop for work and gaming."
+    }
+  ]
+}

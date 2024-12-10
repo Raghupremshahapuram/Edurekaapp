@@ -1,0 +1,8 @@
+.active{
+    background-color: rgb(212, 194, 28);
+    color: white;
+    border-radius: auto;
+}
+.active > a{
+    color: white;
+}

@@ -1,0 +1,34 @@
+<p>product-info works!</p>
+
+
+<section class="product-container">
+    <p>With observarvable</p>
+       <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Product Name</th>
+                <th scope="col">Product Description</th>
+                <th scope="col">Product Image</th>
+                <th scope="col">Product Price </th>
+            </tr>
+        </thead>
+        <tbody>
+                <td>{{queryparams.name | uppercase }}</td>
+                <td>{{queryparams.description }}</td>
+                <td><img [src]="queryparams.image" /></td>
+                <td>{{queryparams.price }}</td>
+                
+                    
+            
+        </tbody>
+    </table>
+              
+</section>
+   
+   
+    
+<!-- 
+{{ queryparams.name }}
+{{ queryparams.description }}
+{{ queryparams.price }}
+<img [src]="queryparams.image"> -->
